@@ -23,13 +23,13 @@ Here are some of the technologies and tools I work with:
 Here are a few projects I've been working on:
 
 1. **Cashier Website CV. Berkah Jaya** - Simple Cashier Website w/ Admin Perms Validation
-   - [Website Kasir CV. Berkah Jaya](#)
+   - [Website Kasir CV. Berkah Jaya](https://github.com/Kadem1190/Website-Kasir)
    - Using PHP for validations and database fetching.
    - Website is able to determine if user has admin hierachy or not.
    - Stored password is automatically hashed inside the MySQL database.
 
 2. **Cashier Application** - Simple Cashier App with C#
-   - [Repository Link](https://github.com/Kadem1190/Project-Cashier-App)
+   - [Simple Cashier App](https://github.com/Kadem1190/Project-Cashier-App)
    - Using SSMS for database management
    - All based on C# with WinFormsApp
 
