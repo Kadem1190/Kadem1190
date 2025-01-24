@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: Python, JavaScript, Java, C++, C#, PHP
+- **Languages**: Python, JavaScript, Java, C++, C#, PHP, BASH
 - **Tools**: Git
 - **Databases**: MySQL
 
