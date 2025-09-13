@@ -43,7 +43,5 @@ Here are a few projects I've been working on:
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to discussing new projects, collaborations, or job opportunities.
 
-- 📧 Email: [20azka08@gmail.com](mailto:20azka08@gmail.com)
-- 💼 LinkedIn: [Azka Putra](https://www.linkedin.com/in/azka-putra-79a877346/)
-
+WIP 
 Thanks for visiting my profile!
